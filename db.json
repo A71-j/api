@@ -1,0 +1,22 @@
+{
+  "scammer": [
+    {"damage":"3497498374", "known": "25.01.2018", "upvotes": 2, "id": "61b7176b19864a97bc87d33ee789ec62"},
+    {"damage":"3497498374", "known": "21.01.2018", "upvotes": 324434, "id": "c03a3a920d0844a392fa28259099dc61"},
+    {"damage":"3497498374", "known": "25.01.2020", "upvotes": 44, "id": "0c05471fc5554f4a8c36d55e7e116afc"},
+    {"damage":"3497498374", "known": "25.01.1999", "upvotes": 999, "id": "21a0404d6b1d41a28952b75aea9a788a"}
+  ],
+  "upvote-scammer": [
+    {"damage":"3497498374", "known": "25.01.2088", "upvotes": 324434, "id": "c03a3a920d0844a392fa28259099dc61"},
+    {"damage":"3497498374", "known": "25.09.2018", "upvotes": 44, "id": "0c05471fc5554f4a8c36d55e7e116afc"},
+    {"damage":"3497498374", "known": "01.01.2021", "upvotes": 18, "id": "a1a84f2656764faea6d444fb6a8a8342"},
+    {"damage":"3497498374", "known": "25.09.2018", "upvotes": 9, "id": "1cc9eff73e064fed972d748db1561e5c"}
+  ],
+  "test": [
+    {"uuid": 2},
+    {"uuid": 9}
+  ],
+  "login": [
+    {"name":"admin", "email":"adm.in@gmail.com", "password": "admin123"},
+    {"name":"admin", "email":"adm.in@gmail.com", "password": "admin123"}
+  ]
+}
